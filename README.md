@@ -23,7 +23,8 @@ The converter program is designed to take input from the validator via a pipe. I
 an output file, "output.txt"
 
 USAGE:
-UNIX: 
+
+UNIX:
 1. unzip all files into the same directory. 
 2. Type: "make validator converter" into the command line(command line must be open in this directory)
 3. type "./validator [number of dates to output] | converter"
