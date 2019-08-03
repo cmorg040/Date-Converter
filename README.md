@@ -16,7 +16,7 @@ If the date is valid, it will be printed into stdout(the screen).
 When the validator program has finished running, it will print a signal to indicate is finished. the signal is "Finished"
 (Very creative, I know)
 
-The second program, converter, converts the dates output by validator into a DD Month(Abreviated) YYYY format.
+The second program, converter, converts the dates output by validator into a DD Month(Abbreviated) YYYY format.
 For example, 12/10/2018 would be converted to 10 DEC 2018.
 
 The converter program is designed to take input from the validator via a pipe. It outputs the converted dates into
